@@ -5,5 +5,7 @@ public class Test {
 		System.out.println("say hell again");
 		System.out.println("fourth add");
 		System.out.println("five add");
+		System.out.println("six add");
 	}
+
 }
