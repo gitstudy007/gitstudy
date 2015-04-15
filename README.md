@@ -1,2 +1,0 @@
-# gitstudy
-git study
